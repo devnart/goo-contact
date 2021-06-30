@@ -21,7 +21,7 @@ Support
 contact the developer directly.
 
 
-Contributing to Contact Form 7
+Contributing to Goo Contact
 ------------------------------
 
 You can contribute to the project of Contact Form 7 in several ways. Contact the developer for more info.
